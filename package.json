@@ -1,0 +1,27 @@
+{
+  "name": "dns_requester",
+  "version": "1.0.0",
+  "description": "A simple http server which resolves dns names to ip addressess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuyaryshev/dns_requester.git"
+  },
+  "keywords": [
+    "dns",
+    "ip",
+    "addresses"
+  ],
+  "author": "Yuri Yaryshev",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/yuyaryshev/dns_requester/issues"
+  },
+  "homepage": "https://github.com/yuyaryshev/dns_requester#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
